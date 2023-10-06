@@ -5,7 +5,7 @@
 ## Contributing
 
 ### 2023-08-11 note:
-_This version of the workshop is no longer being maintained or updated.  Instead, we are working on re-vamping this workshop for Quarto [see repo](https://github.com/UCSBCarpentry/Reproducible-Publications-with-RStudio-Quarto).  We'll be submitting the re-vamped workshop to Carpentries Incubator when completed.  Contact us if you are interested in teaching the Quarto version of this workshop or have a related project. We are actively working on the new version of this workshop
+_This version of the workshop is no longer being maintained or updated.  Instead, we are working on re-vamping this workshop for Quarto [see repo](https://github.com/UCSBCarpentry/Reproducible-Publications-with-RStudio-Quarto).  We'll be submitting the re-vamped workshop to Carpentries Incubator when completed.  Contact us if you are interested in teaching the Quarto version of this workshop or have a related project. We are actively working on the new version of this workshop._
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way. Please submit issues [here](https://github.com/UCSBCarpentry/Reproducible-Publications-with-RStudio-Quarto/issues).
